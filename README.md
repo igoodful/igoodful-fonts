@@ -11,7 +11,8 @@
 ## 英文字体：  
 （1）optima（英文最佳字体，很美观的字体）；  
 （2）monaco（苹果公司设计，编程序最佳字体）；   
-（3）Somnium-Amor（苗条美观）；   
+（3）Somnium-Amor（苗条美观）； 
+（4）Jackinput；   
 
 ## 注意事项：  
 
