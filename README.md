@@ -14,6 +14,9 @@
 （3）Somnium-Amor（苗条美观）；   
 （4）Jackinput；    
 （5）VerilySerifMono；   
+（6）Perpetua   
+
+
 
 ## 注意事项：  
 
