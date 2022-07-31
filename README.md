@@ -14,7 +14,7 @@
 （3）Somnium-Amor（苗条美观）；   
 （4）Jackinput；    
 （5）VerilySerifMono；   
-（6）Perpetua   
+（6）Perpetua （非常美观舒适）  
 
 
 
