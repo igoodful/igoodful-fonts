@@ -26,3 +26,11 @@
 （2）我已经收集了我个人认为最漂亮的字体。  
 （3）如果你有漂亮的字体在手，那是否可以分享给我呢？  
 （4）另外，需要注意版权。 
+
+## 字体下载
+
+（1）https://font.download/
+
+## 字体识别
+- [whatfont chrome扩展程序](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+- [fonts-ninja chrome扩展程序](https://chromewebstore.google.com/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
