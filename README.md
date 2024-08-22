@@ -15,7 +15,7 @@
 （4）Jackinput；    
 （5）VerilySerifMono；   
 （6）Perpetua （非常美观舒适）  
-（7）Cascadia Code （适合编程字体）  
+（7）Cascadia Code （适合编程字体）
 （8）Menlo.zip
 （9）Montserrat.zip
 
