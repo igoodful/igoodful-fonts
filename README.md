@@ -24,7 +24,7 @@
 
 （10）Roboto
 
-（11）Poppins， 谷歌的一款字体，目前https://www.percona.com官网使用，界面漂亮大气
+（11）Poppins， 谷歌的一款字体，目前percona官网使用，界面漂亮大气：（网址：https://www.percona.com）
 
 
 ## 注意事项：  
